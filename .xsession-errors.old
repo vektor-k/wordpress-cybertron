@@ -1,0 +1,1186 @@
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+** Message: applet now removed from the notification area
+Initializing grid options...done
+I/O warning : failed to load external entity "/home/vector/.compiz/session/103dc1680cf0da07a137110713420995200000025500033"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:2614): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Initializing unityshell options...done
+Setting Update "main_menu_key"
+Setting Update "run_key"
+** Message: moving back from GtkStatusIcon to indicator
+
+** (zeitgeist-datahub:2899): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+** (gnome-screensaver:2898): WARNING **: Screensaver already running in this session
+compiz (core) - Warn: could not insert 0x1000721 above 0xc0085a
+compiz (core) - Warn: could not insert 0x1000437 above 0xc0085a
+compiz (core) - Warn: a broken plugin tried to remove a window twice, we won't allow that!
+compiz (core) - Warn: could not insert 0x1000721 above 0xc003ea
+compiz (core) - Warn: could not insert 0x1000fbb above 0xc0085a
+compiz (core) - Warn: failed to receive ConfigureNotify event on 0x1000721
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+** Message: No keyring secrets found for TELUS0408/802-11-wireless-security; asking user.
+2013-06-13 01:38:15,928 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2013-06-13 01:38:15,972 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2013-06-13 01:38:16,527 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2013-06-13 01:38:16,764 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2013-06-13 01:38:16,775 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2013-06-13 01:38:29,081 - softwarecenter.db.update - INFO - skipping region restricted app: 'Bulleti d'esquerra de Calonge i Sant Antoni ' (not whitelisted)
+2013-06-13 01:38:29,553 - softwarecenter.db.update - INFO - skipping region restricted app: 'Comentarios Web' (not whitelisted)
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+compiz (decor) - Warn: failed to bind pixmap to texture
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+
+###!!! [Child][RPCChannel] Error: Unknown message: not processed
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_container_foreach: assertion `GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2626): GLib-GObject-WARNING **: instance of invalid non-instantiatable type `(null)'
+
+(nautilus:2626): GLib-GObject-CRITICAL **: g_signal_handler_disconnect: assertion `G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:2626): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:2626): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:2626): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_group_get_action: assertion `GTK_IS_ACTION_GROUP (action_group)' failed
+
+(nautilus:2626): GLib-GObject-CRITICAL **: g_object_set: assertion `G_IS_OBJECT (object)' failed
+
+(nautilus:2626): Gtk-CRITICAL **: gtk_action_set_sensitive: assertion `GTK_IS_ACTION (action)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:2600): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(firefox:26576): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion `targets != NULL' failed
+
+(polkit-gnome-authentication-agent-1:2627): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nautilus:2626): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:2628): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(bluetooth-applet:2629): Gdk-WARNING **: bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-fallback-mount-helper:2630): Gdk-WARNING **: gnome-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+gtk-window-decorator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+(gdu-notification-daemon:2787): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:2882): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(file-roller:4594): Gdk-WARNING **: file-roller: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+firefox: ../../src/xcb_io.c:529: _XAllocID: Assertion `ret != inval_id' failed.
+
+(update-notifier:2907): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gnome-terminal:4374): Gdk-WARNING **: gnome-terminal: Fatal IO error 104 (Connection reset by peer) on X server :0.
+
+plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+(gnome-settings-daemon:2600): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+gnome-session[2550]: Gdk-WARNING: gnome-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(deja-dup-monitor:2972): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.28 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:2972): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.30 of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:2972): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.31 of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts

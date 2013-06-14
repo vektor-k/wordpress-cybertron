@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="first_run" mtime="1371109470" type="bool" value="false"/>
+	<entry name="show_details" mtime="1371169638" type="bool" value="false"/>
+	<entry name="launch_time" mtime="1371169638" type="int" value="1371169638"/>
+</gconf>

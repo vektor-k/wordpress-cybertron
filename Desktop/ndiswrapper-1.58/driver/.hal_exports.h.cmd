@@ -1,0 +1,1 @@
+cmd_/home/vector/Desktop/ndiswrapper-1.58/driver/hal_exports.h := /bin/sh /home/vector/Desktop/ndiswrapper-1.58/driver/mkexport.sh /home/vector/Desktop/ndiswrapper-1.58/driver/hal.c /home/vector/Desktop/ndiswrapper-1.58/driver/hal_exports.h

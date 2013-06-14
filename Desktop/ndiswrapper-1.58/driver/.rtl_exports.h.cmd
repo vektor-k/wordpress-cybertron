@@ -1,0 +1,1 @@
+cmd_/home/vector/Desktop/ndiswrapper-1.58/driver/rtl_exports.h := /bin/sh /home/vector/Desktop/ndiswrapper-1.58/driver/mkexport.sh /home/vector/Desktop/ndiswrapper-1.58/driver/rtl.c /home/vector/Desktop/ndiswrapper-1.58/driver/rtl_exports.h

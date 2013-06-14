@@ -1,0 +1,1 @@
+cmd_/home/vector/Desktop/ndiswrapper-1.58/driver/ntoskernel_io_exports.h := /bin/sh /home/vector/Desktop/ndiswrapper-1.58/driver/mkexport.sh /home/vector/Desktop/ndiswrapper-1.58/driver/ntoskernel_io.c /home/vector/Desktop/ndiswrapper-1.58/driver/ntoskernel_io_exports.h

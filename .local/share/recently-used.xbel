@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vector/Desktop/b43.zip" added="2013-06-13T06:31:18Z" modified="2013-06-13T06:39:03Z" visited="2013-06-13T06:31:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2013-06-13T06:39:03Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///lib/firmware" added="2013-06-13T06:33:15Z" modified="2013-06-13T06:33:15Z" visited="2013-06-13T06:33:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller %u&apos;" modified="2013-06-13T06:33:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/Desktop/broadcom-wl-5.100.138.tar.bz2" added="2013-06-13T06:57:26Z" modified="2013-06-13T06:57:30Z" visited="2013-06-13T06:57:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2013-06-13T06:57:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/.cache/.fr-IYiWoI/broadcom-wl-5.100.138/README" added="2013-06-13T06:57:42Z" modified="2013-06-13T06:57:42Z" visited="2013-06-13T06:57:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2013-06-13T06:57:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/1" added="2013-06-13T09:06:25Z" modified="2013-06-13T19:36:02Z" visited="2013-06-13T09:06:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2013-06-13T19:36:02Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2013-06-13T19:36:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/Downloads/Netgear%20WNA3100%20-%20Drivers.zip" added="2013-06-13T10:32:51Z" modified="2013-06-13T10:33:21Z" visited="2013-06-13T10:32:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2013-06-13T10:32:51Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2013-06-13T10:33:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/master" added="2013-06-13T19:36:06Z" modified="2013-06-13T19:36:06Z" visited="2013-06-13T19:36:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2013-06-13T19:36:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/Desktop/wordpress.tar.gz" added="2013-06-13T23:25:55Z" modified="2013-06-13T23:25:55Z" visited="2013-06-13T23:25:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2013-06-13T23:25:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vector/Desktop/51ba430d4382ec731d000025/git/wordpress.git/config" added="2013-06-13T23:30:21Z" modified="2013-06-13T23:30:22Z" visited="2013-06-13T23:30:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2013-06-13T23:30:21Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2013-06-13T23:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

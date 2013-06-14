@@ -1,0 +1,7 @@
+2013-06-13 01:38:15,928 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2013-06-13 01:38:15,972 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2013-06-13 01:38:16,527 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2013-06-13 01:38:16,764 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is None.
+2013-06-13 01:38:16,775 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2013-06-13 01:38:29,081 - softwarecenter.db.update - INFO - skipping region restricted app: 'Bulleti d'esquerra de Calonge i Sant Antoni ' (not whitelisted)
+2013-06-13 01:38:29,553 - softwarecenter.db.update - INFO - skipping region restricted app: 'Comentarios Web' (not whitelisted)
